@@ -11,6 +11,20 @@
 </head>
 
 	<body>
-	[Put Manhatan College logo here]
+	<p>[Put Manhatan College logo here] </p>
+	<table>
+		<tr>
+			<td>
+				<p><a href="../index.html">Home page</a></p>
+</td>
+			<td><a href="../about-this-course.html">About This Course</a></td>
+			<td><a href="../class-directory.html">Class Directory</a></td>
+			<td><a href="../contact-us.html">Contact Us</a></td>
+			<td><a href="../project-guidelines.html">Project Guidelines</a></td>
+		</tr>
+	</table>
+	<!-- TemplateBeginEditable name="Main Content Area" -->
+	<p>[Put content here]</p>
+	<!-- TemplateEndEditable -->
 	</body>
 </html>
